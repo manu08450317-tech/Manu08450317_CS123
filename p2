@@ -1,0 +1,22 @@
+import java.util.*;
+
+public class P2 {
+    public static void main(String[] args) {
+        List<String> ls = new ArrayList<>();
+        ls.add("Orange");
+        ls.add("Green");
+        ls.add("Pink");
+        ls.add("Red");
+        ls.add("Blue");
+
+        System.out.println("Initial list: " + ls);
+
+        // Remove element at index 2 (Pink)
+        ls.remove(2);
+        System.out.println("After removing element at index 2: " + ls);
+
+        // Remove element by value ("Blue")
+        ls.remove("Blue");
+        System.out.println("After removing 'Blue': " + ls);
+    }
+}
