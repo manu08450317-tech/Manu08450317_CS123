@@ -42,7 +42,9 @@ ColorTabbedPaneExample output Link : https://github.com/manu08450317-tech/Manu08
 
 8a cookiServlet output  Link : https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/8a1.png   and https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/8a2.png  
 
-8b CookiServlet output Link : https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/8b1.png    and  https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/8b2.png
+8b CookiServlet output Link : https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/8b1.png    and  https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/8b2.png   
+
+9a output Link : https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/9a.png 
 
 
 
