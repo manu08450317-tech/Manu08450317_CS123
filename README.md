@@ -48,3 +48,9 @@ ColorTabbedPaneExample output Link : https://github.com/manu08450317-tech/Manu08
 
 9b output Link :  https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/9b.png  and  https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/9b2.png  and https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/9b3.png   
 
+10a output Link :  https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/10a1.png  and  https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/10a2.png   
+
+
+
+
+10b output Link :https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/10b1.png   and   https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/10b2.png 
