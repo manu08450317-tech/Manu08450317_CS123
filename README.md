@@ -38,3 +38,4 @@ ColorTabbedPaneExample output Link : https://github.com/manu08450317-tech/Manu08
 
 7a cookies output Link : https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/7a1.png  and  https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/7a2.png  and https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/7a3.png  
 
+7b output Link : https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/7b.png  and 
