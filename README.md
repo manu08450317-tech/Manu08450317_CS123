@@ -32,4 +32,4 @@ ColorTabbedPaneExample output Link : https://github.com/manu08450317-tech/Manu08
 
 6a Factrorial of number output Link :https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/6a1.png   and https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/6a2.png
 
-
+6b output link : https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/6a1.png
