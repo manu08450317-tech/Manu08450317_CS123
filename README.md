@@ -36,5 +36,5 @@ ColorTabbedPaneExample output Link : https://github.com/manu08450317-tech/Manu08
 
 6c primenumber output Link : https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/6c.png  and  https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/6c2.png
 
-7a cookies output Link : https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/7a1.png  and 
+7a cookies output Link : https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/7a1.png  and  https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/7a2.png  and https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/7a3.png  
 
