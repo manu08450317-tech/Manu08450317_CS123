@@ -28,3 +28,4 @@ TabbedPaneExample output Link : https://github.com/manu08450317-tech/Manu0845031
 
 CountryListExample output Link : https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/5c.png
 
+ColorTabbedPaneExample output Link : https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/5d.png
