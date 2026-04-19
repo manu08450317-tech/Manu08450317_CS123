@@ -34,7 +34,7 @@ ColorTabbedPaneExample output Link : https://github.com/manu08450317-tech/Manu08
 
 6b output link : https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/6a1.png   and   https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/6b2%20(2).png   and    https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/6b3.png 
 
-6c primenumber output Link : https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/6c.png  and  
+6c primenumber output Link : https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/6c.png  and  https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/6c2.png
 
 
 
