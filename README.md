@@ -22,7 +22,7 @@ ButtonExample output Link : https://github.com/manu08450317-tech/Manu08450317_CS
 ImageButtonExample output Link : https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/4cc.png
 
 
-TabblePaneExample output Linnk : https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/5a.png
+JListExample output Linnk : https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/5a.png
 
 
 
