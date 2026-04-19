@@ -26,5 +26,5 @@ JListExample output Linnk : https://github.com/manu08450317-tech/Manu08450317_CS
 
 TabbedPaneExample output Link : https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/5b.png
 
-ColorTabbedpaneExample output Link : https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/5c.png
+CountryListExample output Link : https://github.com/manu08450317-tech/Manu08450317_CS123/blob/main/5c.png
 
